@@ -1,1 +1,5 @@
-# weather_app
+# Weather App
+
+Created on The complete web development boot camp by Angela Yu
+
+### Check it out in:
